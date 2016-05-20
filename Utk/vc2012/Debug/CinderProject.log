@@ -1,0 +1,10 @@
+﻿Построение начато 20.05.2016 20:51:10.
+     1>Проект "C:\CinderProject\vc2012\CinderProject.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\include /I..\..\cinder_0.8.6_vc2012\include /I..\..\cinder_0.8.6_vc2012\boost /ZI /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D NOMINMAX /D _WIN32_WINNT=0x0502 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\CinderProjectApp.cpp
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppCommon.targets(347,5): error : Required file "tracker.exe" is missing.
+     1>Построение проекта "C:\CinderProject\vc2012\CinderProject.vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+Сбой построения.
+
+Затраченное время: 00:00:00.13
